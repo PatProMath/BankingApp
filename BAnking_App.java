@@ -7,7 +7,7 @@ package banking_app;
 
 /**
  *
- * @author CLEMENT O. A-U
+ * @author Patricia Osifo-Iduorobo
  */
 public class BAnking_App {
 
